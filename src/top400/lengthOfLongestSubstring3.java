@@ -1,7 +1,7 @@
 package top400;
 import java.util.HashSet;
 import java.util.Set;
-
+import java.util.*;
 public class lengthOfLongestSubstring3 {
     public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring("pwwkew"));
